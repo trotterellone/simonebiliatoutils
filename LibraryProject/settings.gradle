@@ -1,0 +1,2 @@
+include ':app', ':simonebiliatoutils'
+rootProject.name='LibraryProject'

@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [:simonebiliatoutils] C:\Users\Simone\AndroidStudioProjects\LibraryProject\simonebiliatoutils\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\8bd95f6e360b7ca0c66e220d1ea867b7\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\83792575854af35694d937568a4c3dcc\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\8dba55c78a7bc785712562e955e6e9b7\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\0a77340f4d43729c1363345658401c8f\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\eaee758d98de4f0fecab7a11f91733b2\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\cc4d0d87f23221a982f3772e98034a33\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\92a8927f713dba8cffb22c8d7e8780b5\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\33647dd12597d62e45f08e3213fd36ad\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\f7d2c7d328bcc115ee7961489c449c73\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\fab56e49236f60723a5db85df83ffc5e\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\4facf02b52489820ea583e7f5d9cdada\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\db0e29bfd8dd99ea11bdb7a4f3495b21\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\7b46121a7e25631949f0b9dbd6cae299\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\1149e38075fffc08be29a8534201f115\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\9f550e14dd68ef27fc3739b29740045c\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\2f49920f44251d5d18c7e3ebd2a61929\core-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\eec1c35c09946ec16fbafe81a2012cda\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\39e2d95ba578622d113cc325a332c553\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\6a99cd3c6513e130dd374ba0738a785e\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\91a1aec23acd2901b4e20f961333e5b5\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\44aac05d2e7d2b21c98d101c28a87fb5\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\3836a135d94663b2d416f95830096e5b\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\36b90381c5ff9034880767be04c15996\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\e4573bf7c4699378e4cfd64c988c0c7b\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\72cdc5c274451f3a5c29ebdcadb082e7\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\2fce00a0895d1ce84549c2e1632f391b\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\4a445d48bb601291e00c6e4848f1b961\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\83792575854af35694d937568a4c3dcc\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\83792575854af35694d937568a4c3dcc\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\2f49920f44251d5d18c7e3ebd2a61929\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\2f49920f44251d5d18c7e3ebd2a61929\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\eec1c35c09946ec16fbafe81a2012cda\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\eec1c35c09946ec16fbafe81a2012cda\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\2f49920f44251d5d18c7e3ebd2a61929\core-1.0.1\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml:11:9-40
+activity#simone.biliato.libraryproject.MainActivity
+ADDED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml
+MERGED from [:simonebiliatoutils] C:\Users\Simone\AndroidStudioProjects\LibraryProject\simonebiliatoutils\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:simonebiliatoutils] C:\Users\Simone\AndroidStudioProjects\LibraryProject\simonebiliatoutils\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\8bd95f6e360b7ca0c66e220d1ea867b7\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\8bd95f6e360b7ca0c66e220d1ea867b7\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\83792575854af35694d937568a4c3dcc\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\83792575854af35694d937568a4c3dcc\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\8dba55c78a7bc785712562e955e6e9b7\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\8dba55c78a7bc785712562e955e6e9b7\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\0a77340f4d43729c1363345658401c8f\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\0a77340f4d43729c1363345658401c8f\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\eaee758d98de4f0fecab7a11f91733b2\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\eaee758d98de4f0fecab7a11f91733b2\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\cc4d0d87f23221a982f3772e98034a33\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\cc4d0d87f23221a982f3772e98034a33\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\92a8927f713dba8cffb22c8d7e8780b5\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\92a8927f713dba8cffb22c8d7e8780b5\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\33647dd12597d62e45f08e3213fd36ad\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\33647dd12597d62e45f08e3213fd36ad\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\f7d2c7d328bcc115ee7961489c449c73\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\f7d2c7d328bcc115ee7961489c449c73\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\fab56e49236f60723a5db85df83ffc5e\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\fab56e49236f60723a5db85df83ffc5e\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\4facf02b52489820ea583e7f5d9cdada\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\4facf02b52489820ea583e7f5d9cdada\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\db0e29bfd8dd99ea11bdb7a4f3495b21\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\db0e29bfd8dd99ea11bdb7a4f3495b21\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\7b46121a7e25631949f0b9dbd6cae299\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\7b46121a7e25631949f0b9dbd6cae299\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\1149e38075fffc08be29a8534201f115\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\1149e38075fffc08be29a8534201f115\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\9f550e14dd68ef27fc3739b29740045c\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\9f550e14dd68ef27fc3739b29740045c\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\2f49920f44251d5d18c7e3ebd2a61929\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\2f49920f44251d5d18c7e3ebd2a61929\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\eec1c35c09946ec16fbafe81a2012cda\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\eec1c35c09946ec16fbafe81a2012cda\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\39e2d95ba578622d113cc325a332c553\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\39e2d95ba578622d113cc325a332c553\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\6a99cd3c6513e130dd374ba0738a785e\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\6a99cd3c6513e130dd374ba0738a785e\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\91a1aec23acd2901b4e20f961333e5b5\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\91a1aec23acd2901b4e20f961333e5b5\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\44aac05d2e7d2b21c98d101c28a87fb5\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\44aac05d2e7d2b21c98d101c28a87fb5\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\3836a135d94663b2d416f95830096e5b\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\3836a135d94663b2d416f95830096e5b\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\36b90381c5ff9034880767be04c15996\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\36b90381c5ff9034880767be04c15996\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\e4573bf7c4699378e4cfd64c988c0c7b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\e4573bf7c4699378e4cfd64c988c0c7b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\72cdc5c274451f3a5c29ebdcadb082e7\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\72cdc5c274451f3a5c29ebdcadb082e7\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\2fce00a0895d1ce84549c2e1632f391b\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\2fce00a0895d1ce84549c2e1632f391b\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\4a445d48bb601291e00c6e4848f1b961\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Simone\.gradle\caches\transforms-2\files-2.1\4a445d48bb601291e00c6e4848f1b961\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Simone\AndroidStudioProjects\LibraryProject\app\src\main\AndroidManifest.xml
